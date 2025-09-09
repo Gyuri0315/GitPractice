@@ -1,3 +1,3 @@
 # GitPractice
 
-aaaaaa
+aaaa
