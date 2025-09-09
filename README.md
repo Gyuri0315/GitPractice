@@ -1,2 +1,7 @@
 # GitPractice
+
 hhh
+=======
+
+aaaa
+
