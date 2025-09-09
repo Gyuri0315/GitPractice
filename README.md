@@ -1,3 +1,1 @@
 # GitPractice
-
-hello world
